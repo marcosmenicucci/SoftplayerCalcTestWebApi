@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftplayerCalcTestWebApi", "SoftplayerCalcTestWebApi\SoftplayerCalcTestWebApi.csproj", "{74BF49EF-F738-4491-B0A6-1F68C172A016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftplayerCalcTestWebApi.Tests", "SoftplayerCalcTestWebApi.Tests\SoftplayerCalcTestWebApi.Tests.csproj", "{9AAAE3BB-339E-462D-A563-7DFBB74CB55C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BF49EF-F738-4491-B0A6-1F68C172A016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BF49EF-F738-4491-B0A6-1F68C172A016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BF49EF-F738-4491-B0A6-1F68C172A016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BF49EF-F738-4491-B0A6-1F68C172A016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAAE3BB-339E-462D-A563-7DFBB74CB55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAAE3BB-339E-462D-A563-7DFBB74CB55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAAE3BB-339E-462D-A563-7DFBB74CB55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAAE3BB-339E-462D-A563-7DFBB74CB55C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
